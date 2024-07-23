@@ -1,2 +1,2 @@
-echo "starting Bot ~@save_restricted";
+echo "starting Bot ~@WarriorUnitsBots";
 python3 -m ggn
