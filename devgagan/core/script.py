@@ -4,6 +4,7 @@
 
 START_TXT = """
 Hi, welcome to Advance Content Saver Bot, designed to save restricted messages from public/private channels and private groups. First login in bot by /login then send post link.
+Before Using Bot Check Out Channel For Updates @WarriorUnitsBots And If Any Problume You Face then Dm @oo7jatji
 """
 
 FORCE_MSG = """
